@@ -1,0 +1,177 @@
+﻿{
+    "Url": "www.epdata.es/diferencia-nacimientos-muertes-cada-comunidad-autonoma-2020/2dd93cb5-cae3-4ce6-8765-f344df694a68",
+    "Respuesta": {
+        "Id": "2dd93cb5-cae3-4ce6-8765-f344df694a68",
+        "Url": "www.epdata.es/diferencia-nacimientos-muertes-cada-comunidad-autonoma-2020/2dd93cb5-cae3-4ce6-8765-f344df694a68",
+        "Titulo": "Diferencia entre nacimientos y muertes en cada comunidad autónoma en 2021",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Diferencia",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Andalucía",
+                            "Valor": -13689,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Aragón",
+                            "Valor": -5053,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Asturias",
+                            "Valor": -8582,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Baleares",
+                            "Valor": 718,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "C-LM",
+                            "Valor": -5883,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "C. Valenciana",
+                            "Valor": -13971,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Canarias",
+                            "Valor": -4417,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Cantabria",
+                            "Valor": -2767,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Cataluña",
+                            "Valor": -11708,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Ceuta",
+                            "Valor": 45,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "CyL",
+                            "Valor": -16204,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Extremadura",
+                            "Valor": -5071,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Galicia",
+                            "Valor": -18066,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "La Rioja",
+                            "Valor": -1219,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Madrid",
+                            "Valor": 1509,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Melilla",
+                            "Valor": 368,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Murcia",
+                            "Valor": 1132,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Navarra",
+                            "Valor": -658,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "País Vasco",
+                            "Valor": -8810,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
