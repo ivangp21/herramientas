@@ -1,0 +1,129 @@
+﻿[
+    {
+        "Agno": 2022,
+        "Parametro": "Andalucía",
+        "Valor": 19269,
+        "X": 40,
+        "Y": 105
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Aragón",
+        "Valor": 1364,
+        "X": 95,
+        "Y": 60
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Asturias",
+        "Valor": -837,
+        "X": 45,
+        "Y": 20
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Cantabria",
+        "Valor": 854,
+        "X": 65,
+        "Y": 25
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Castilla y León",
+        "Valor": -717,
+        "X": 50,
+        "Y": 45
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Castilla-La Mancha",
+        "Valor": 8069,
+        "X": 65,
+        "Y": 85
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Cataluña",
+        "Valor": 30944,
+        "X": 120,
+        "Y": 60
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Comunidad Valenciana",
+        "Valor": 33678,
+        "X": 85,
+        "Y": 90
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Extremadura",
+        "Valor": -1579,
+        "X": 25,
+        "Y": 75
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Galicia",
+        "Valor": 1995,
+        "X": 25,
+        "Y": 20
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Islas Baleares",
+        "Valor": 8290,
+        "X": 125,
+        "Y": 95
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "La Rioja",
+        "Valor": 890,
+        "X": 75,
+        "Y": 45
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Madrid",
+        "Valor": 55632,
+        "X": 70,
+        "Y": 65
+    },
+       {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Murcia",
+        "Valor": 8625,
+        "X": 75,
+        "Y": 105
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Navarra",
+        "Valor": 2676,
+        "X": 90,
+        "Y": 40
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "País Vasco",
+        "Valor": 4361,
+        "X": 80,
+        "Y": 35
+    }
+]
