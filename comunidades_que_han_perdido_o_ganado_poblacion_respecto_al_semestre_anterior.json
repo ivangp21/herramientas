@@ -1,6 +1,7 @@
-﻿[
+[
     {
         "Agno": 2022,
+        "Periodo": "Semestre 2",
         "Parametro": "Andalucía",
         "Valor": 19269,
         "X": 40,
@@ -25,6 +26,14 @@
     {
         "Agno": 2022,
         "Periodo": "Semestre 2",
+        "Parametro": "Canarias",
+        "Valor": 9417,
+        "X": 0,
+        "Y": 130
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
         "Parametro": "Cantabria",
         "Valor": 854,
         "X": 65,
@@ -41,7 +50,7 @@
     {
         "Agno": 2022,
         "Periodo": "Semestre 2",
-        "Parametro": "Castilla La Mancha",
+        "Parametro": "Castilla-La Mancha",
         "Valor": 8069,
         "X": 65,
         "Y": 85
@@ -53,6 +62,14 @@
         "Valor": 30944,
         "X": 120,
         "Y": 60
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Ceuta",
+        "Valor": -366,
+        "X": 30,
+        "Y": 120
     },
     {
         "Agno": 2022,
@@ -102,7 +119,15 @@
         "X": 70,
         "Y": 65
     },
-       {
+    {
+        "Agno": 2022,
+        "Periodo": "Semestre 2",
+        "Parametro": "Melilla",
+        "Valor": -426,
+        "X": 60,
+        "Y": 130
+    },
+    {
         "Agno": 2022,
         "Periodo": "Semestre 2",
         "Parametro": "Murcia",
