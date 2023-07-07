@@ -1,0 +1,11 @@
+[
+    {"alumno":"Pedro", "nota":8.5, "ranking":2},
+    {"alumno":"Juan", "nota":7, "ranking":3},
+    {"alumno":"María", "nota":6.5, "ranking":4},
+    {"alumno":"Jose", "nota":6, "ranking":5},
+    {"alumno":"Carlos", "nota":5.5, "ranking":6},
+    {"alumno":"Sofia", "nota":5, "ranking":7},
+    {"alumno":"Ana", "nota":4.5, "ranking":8},
+    {"alumno":"Lucas", "nota":1, "ranking":1},
+    {"alumno":"Ivan", "nota":10, "ranking":9},
+]
